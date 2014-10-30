@@ -30,3 +30,5 @@ If you remix, transform, or build upon the material, you must distribute your co
 
 ###No additional restrictions
 You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+[License Info](http://creativecommons.org/licenses/by-nc-sa/4.0/)
